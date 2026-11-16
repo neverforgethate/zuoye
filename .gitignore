@@ -1,0 +1,19 @@
+﻿# 编译产物
+cmake-build-*/
+build/
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE
+.idea/
+.cproject
+.project
+.settings/
+
+# 系统
+Thumbs.db
+desktop.ini
